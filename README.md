@@ -1,2 +1,4 @@
 # lagou_crawler
 爬取拉勾网南京python职位信息
+
+拉勾网的职位信息不在html中，需要通过requests post来获取返回的json数据
